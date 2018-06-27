@@ -1,5 +1,5 @@
 {
-  "name": "gulp-include-ex",
+  "name": "gulp-include-ext",
   "version": "2.3.1",
   "description": "Fork of the gulp-include with 'separateInputs' option.",
   "homepage": "http://github.com/PFight/gulp-include",
